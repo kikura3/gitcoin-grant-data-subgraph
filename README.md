@@ -1,7 +1,8 @@
 # gitcoin-grant-data-subgraph
 
 This subgraph is currently configured to pull grant applications & votes data for gitcoin alpha round.
-To add new round, Please modify the [subgraph](https://github.com/kikura3/gitcoin-grant-data-subgraph/blob/main/gitcoin-grants/subgraph.yaml)
+To add new round, Please modify the [subgraph](https://github.com/kikura3/gitcoin-grant-data-subgraph/blob/main/gitcoin-grants/subgraph.yaml) to include the below information for the new round
+
   - round address
   - voting contract address
 
